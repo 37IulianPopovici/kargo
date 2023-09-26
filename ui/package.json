@@ -44,7 +44,7 @@
   "dependencies": {
     "@bufbuild/connect": "0.10.1",
     "@bufbuild/connect-query": "0.3.0",
-    "@bufbuild/connect-web": "^0.10.1",
+    "@bufbuild/connect-web": "^0.13.0",
     "@bufbuild/protobuf": "1.2.1",
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
